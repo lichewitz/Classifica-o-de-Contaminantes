@@ -1,2 +1,4 @@
-# Classifica-o-de-Contaminantes
+# Classifição de contaminantes
 Quem é o responsável pela contaminação? Classificando contaminantes no solo quanto às suas origens
+Em áreas contaminadas, frequentemente acontecem casos de disputas de responsabilidade quanto às ações de remediação e intervenção. Em áreas como pools de combustíveis, é comum haver plumas de contaminação e até mesmo zonas com fases livres e retidas que vieram de diferentes fontes, por vezes se misturando. Frequentemente, existe uma disputa entre as potenciais entidades que contaminaram o site. Uma vez que o perfil cromatográfico dos contaminantes é bastante complexo, pode ser bastante difícil dizer com certeza quem é o responsável por algumas áreas que podem potencialmente ter sido contaminadas por diferentes fontes.
+Esse trabalho é uma tentativa de fazer exatamente isso: utilizar algoritmos de aprendizado de máquina para classificar diferentes amostras de óleo em fase livre (com mobilidade hidráulica no solo), com base no perfil de alcanos alifáticos, hidrocarbonetos policíclicos aromáticos (HPA) e mistura complexa não-resolvida (MCNR).
